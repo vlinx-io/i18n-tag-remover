@@ -1,0 +1,1 @@
+const message1 = "i18n(hello world)"; const message2 = "i18n(nice to meet you)";
