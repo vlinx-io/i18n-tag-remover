@@ -1,6 +1,6 @@
 # i18n-tag-remover
 
-Remove i18n tags from js files
+Remove i18n tags from javascript or markdown files
 
 ## Usage
 
